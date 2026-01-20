@@ -33,9 +33,9 @@
 using namespace std;
 int main() { cout << pow(2, 24); return 0; }
 
-2. 静寂の2進数変換 (JavaScript)
+### 2. 静寂の2進数変換 (JavaScript)
 
-数値型に .length を使おうとした、JavaScriptへの過度な信頼。
+```数値型に .length を使おうとした、JavaScriptへの過度な信頼。
 JavaScript
 
 let binary = 2;
@@ -45,7 +45,7 @@ for (let i = 0; i < binary.length; i++) {
 }
 console.log(decimal); // 結果：0
 
-3. 忘却の加算法 (Java)
+### 3. 忘却の加算法 (Java)
 
 13,170,907という、今となっては解読不能な計算結果。
 Java
