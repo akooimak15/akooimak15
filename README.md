@@ -22,3 +22,13 @@
 - 「礼に始まり礼に終わる」気持ちで丁寧に対応いたします。
 
 > *「責任を取る。それが大人の役割だからね。」*
+- 過去の遺物集
+- #include <iostream>
+#include <math.h>
+using namespace std;
+
+int main()
+{
+cout << pow(2, 24);
+return 0;
+}
