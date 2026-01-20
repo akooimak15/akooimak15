@@ -22,13 +22,32 @@
 - 「礼に始まり礼に終わる」気持ちで丁寧に対応いたします。
 
 > *「責任を取る。それが大人の役割だからね。」*
-- 過去の遺物集
-- #include <iostream>
+## 🏺 Archive (Historical Relics)
+中学生時代の私が「AI社会主義」を夢見ながら、型や文法と戦った記録です。
+
+### 1. 24ビットの執着 (C++)
+なぜか16,777,216という数字にこだわっていた形跡。
+```cpp
+#include <iostream>
 #include <math.h>
 using namespace std;
+int main() { cout << pow(2, 24); return 0; }
 
-int main()
-{
-cout << pow(2, 24);
-return 0;
+2. 静寂の2進数変換 (JavaScript)
+
+数値型に .length を使おうとした、JavaScriptへの過度な信頼。
+JavaScript
+
+let binary = 2;
+let decimal = 0;
+for (let i = 0; i < binary.length; i++) {
+    decimal += binary[i] * Math.pow(2, binary.length - 1 - i);
 }
+console.log(decimal); // 結果：0
+
+3. 忘却の加算法 (Java)
+
+13,170,907という、今となっては解読不能な計算結果。
+Java
+
+System.out.println(286518 + 12884389);
