@@ -2,7 +2,7 @@
 # 🌐 [名前] @Kivotos_Engineer
 ### ⚡️ 精神状態：[ 🟦 🟦 🟦 🟦 🟦 🟦 🟦 🟦 🟦 🟨 ]
 
-* **Main Language:** C, Python, 阿慈谷ヒフミへの愛
+* **Main Language:** C, Python, 
 * **Skill:** 剣道初段（ヘルメット団を物理的に分からせるための素養）
 * **Daily Mission:**
     * [ ] 昨日のバグを直す
