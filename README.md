@@ -25,9 +25,9 @@
 ## 🏺 Archive (Historical Relics)
 中学生時代の私が「AI社会主義」を夢見ながら、型や文法と戦った記録です。
 
-### 1. 24ビットの執着 (C++)
+``` 1. 24ビットの執着 (C++)
 なぜか16,777,216という数字にこだわっていた形跡。
-```cpp
+cpp
 #include <iostream>
 #include <math.h>
 using namespace std;
