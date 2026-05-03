@@ -12,4 +12,4 @@
 - **AI & Society:** 2020年（中1）よりAIと経済構造（BI等）の関係に関心を持ち、技術が社会に与える影響について独自の視点を持っています。
 - **Hobbies:** 筋トレ、VRChat、抹茶ラテ（猫舌なので冷ましてから）
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akooimak15&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akooimak15&layout=compact" alt="Top Langs" />
