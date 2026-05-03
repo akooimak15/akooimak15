@@ -13,4 +13,4 @@
 - **Hobbies:** 筋トレ、VRChat、抹茶ラテ（猫舌なので冷ましてから）
 - 
 ### GITHUBSTATS
-[![akooimak15's GitHub stats](https://github-readme-stats.vercel.app/api?username=akooimak15&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akooimak15&show_icons=true&theme=tokyonight)
