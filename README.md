@@ -13,6 +13,6 @@
 - **Hobbies:** 筋トレ、VRChat、抹茶ラテ（猫舌なので冷ましてから）
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akooimak15&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=あなたの正確なユーザー名&layout=compact&hide_border=true&langs_count=5)
 
 ---
