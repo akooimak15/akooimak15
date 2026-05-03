@@ -12,5 +12,5 @@
 - **AI & Society:** 2020年（中1）よりAIと経済構造（BI等）の関係に関心を持ち、技術が社会に与える影響について独自の視点を持っています。
 - **Hobbies:** 筋トレ、VRChat、抹茶ラテ（猫舌なので冷ましてから）
 - 
-### GITHUBSTATS
+### 📊 GitHub Stats
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=akooimak15&theme=dark)
