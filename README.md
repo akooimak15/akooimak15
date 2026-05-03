@@ -11,8 +11,5 @@
 - **Kendo:** 剣道初段。武道の精神をデバッグの粘り強さに活かしています。
 - **AI & Society:** 2020年（中1）よりAIと経済構造（BI等）の関係に関心を持ち、技術が社会に与える影響について独自の視点を持っています。
 - **Hobbies:** 筋トレ、VRChat、抹茶ラテ（猫舌なので冷ましてから）
-
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=あなたの正確なユーザー名&layout=compact&hide_border=true&langs_count=5)
-
----
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akooimak15&layout=compact)
