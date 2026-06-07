@@ -1,4 +1,4 @@
-# Hi, I'm akooimak15 ⚔️
+# Hi, I'm akooimak15
 ### Software Developer | AI Enthusiast | Kendo 1st Dan
 
 剣道で培った「集中力」と、中学生時代から続く「ITへの飽くなき探究心」を武器に開発をしています。
