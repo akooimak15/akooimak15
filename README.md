@@ -13,4 +13,4 @@
 ### 📊 GitHub Stats
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=akooimak15&theme=dark)
 
-[![GitHub Foundations](https://learn.microsoft.com/media/learn/certification/badges/github-foundations.svg)](https://learn.microsoft.com/api/credentials/share/ja-jp/90920309/71A76E042F1236E2?sharingId=A18BFE4506CE1CD3)
+<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/90920309/71A76E042F1236E2?sharingId=A18BFE4506CE1CD3"><img src="https://learn.microsoft.com/media/learn/certification/badges/github-foundations.svg" alt="GitHub Foundations" height="40"></a>
