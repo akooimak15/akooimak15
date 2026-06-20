@@ -12,3 +12,5 @@
 - **Hobbies:** 筋トレ、VRChat、抹茶ラテ（猫舌なので冷ましてから）
 ### 📊 GitHub Stats
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=akooimak15&theme=dark)
+
+[![GitHub Foundations](https://learn.microsoft.com/media/learn/certification/badges/github-foundations.svg?branch=main]https://learn.microsoft.com/api/credentials/share/ja-jp/90920309/71A76E042F1236E2?sharingId=A18BFE4506CE1CD3)
