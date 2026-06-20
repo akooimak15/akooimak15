@@ -8,7 +8,7 @@
 
 ## 🛠 Skills & Interests
 - **Languages/Tools:** Python, JavaScript, php,
-- **Kendo:** 剣道初段。武道の精神をデバッグの粘り強さに活かしています。
+- **Kendo:** 剣道初段。
 - **Hobbies:** 筋トレ、VRChat、抹茶ラテ（猫舌なので冷ましてから）
 ### 📊 GitHub Stats
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=akooimak15&theme=dark)
